@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="col">
                 <div className="title">About</div>
                 <div className="text">
-                    hello motot is the right person to talk with and he is very smart
+                IndiCart is an Trust founded company by ArpitTrust which believes in donating its 2% of its total year revenue to all orphanages near its founded center.
                 </div>
             </div>
             <div className="col">
@@ -16,7 +16,7 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow/>
                         <div className="text">
-                            7c lic colony, kunjpura road, karnal
+                            Onsite
                         </div>
                     </div>
                     <div className="c-item">
@@ -28,7 +28,7 @@ const Footer = () => {
                     <div className="c-item">
                         <FaEnvelope/>
                         <div className="text">
-                            Email - arpittomar234@gmail.com
+                            Email - arpittomar246@gmail.com
                         </div>
                     </div>
                 </div>
